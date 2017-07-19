@@ -1,0 +1,3 @@
+{
+  "DBHost": "mongodb://admin:playground@ds161032.mlab.com:61032/playground"
+}
